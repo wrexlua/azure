@@ -1,0 +1,12 @@
+{
+  "name": "azure-bypass",
+  "version": "1.0.0",
+  "description": "Azure - bypass userscript",
+  "private": true,
+  "scripts": {
+    "build": "node build.js"
+  },
+  "devDependencies": {
+    "javascript-obfuscator": "^4.1.1"
+  }
+}
